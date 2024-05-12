@@ -1,6 +1,10 @@
 #include <iostream>
+#include "head.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, CLion!" << std::endl;
+
+    code_01();
+
     return 0;
 }
