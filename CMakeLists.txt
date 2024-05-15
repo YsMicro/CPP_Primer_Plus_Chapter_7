@@ -8,4 +8,5 @@ add_executable(CPP_Primer_Plus_Chapter_7 main.cpp
         Code/07_01_calling.cpp
         Code/07_02_protos.cpp
         Code/07_03_twoArg.cpp
-        Code/07_04_lotto.cpp)
+        Code/07_04_lotto.cpp
+        Code/07_05_arrFun_1.cpp)
