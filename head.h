@@ -17,4 +17,6 @@
 
 [[maybe_unused]] int code_06();
 
+[[maybe_unused]] int code_07();
+
 #endif //CPP_PRIMER_PLUS_CHAPTER_7_HEAD_H
